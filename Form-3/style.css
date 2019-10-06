@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC&display=swap');
+
+body{
+    background-image: linear-gradient(to right, #1aff8c , #00b359);
+}
+
+form{
+    margin-top:100px;background-color:#F8FFF5;
+    color:#00b359;
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+h3{
+    margin-bottom:30px;
+}
+
+input {
+    margin-left: 80px;
+    margin-bottom: 20px;
+    outline: 0;
+    background-color:#F8FFF5;
+    border-width: 0 0 2px;
+    border-color: #AFDDDA;
+  }
+  input:focus {
+    background-color:#F8FFF5;
+    border-color: #AFDDDA;
+  }
+
+.btn{
+    background-color:#00cc66;
+    color: white;
+}
+
+img{
+    margin-top: 100px;
+    height: 389px;
+    margin-left: 20px;
+    background-color:#F8FFF5;
+}
